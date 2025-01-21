@@ -1,1 +1,4 @@
 Киселев_Пичугина_Пухальская_ФЗ
+pip install customtkinter
+pip install tkcalendar
+pip install matplotlib
